@@ -1,4 +1,4 @@
-# mkdocs-tuts
+# InnoRules User's Guide of Rule Builder
 
 [mkdocs](http://www.mkdocs.org/)는 문서작성 도구입니다.
 
